@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/obs-lab-banner.png" alt="OBS-LAB" width="800">
+<img src="assets/obs-lab-icon.png" alt="OBS-LAB" width="800">
 
 # OBS-LAB
 
