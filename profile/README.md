@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/obs-lab-icon.png" alt="OBS-LAB" width="96" height="96">
+<img src="assets/obs-lab-banner.png" alt="OBS-LAB" width="800">
 
 # OBS-LAB
 
@@ -49,4 +49,4 @@ OBS-LAB is a B2B product installed on site, directly on your own servers. Becaus
 
 - **Email** obslab2026@gmail.com
 - **LinkedIn** [OBS-LAB](https://www.linkedin.com/company/obs-lab)
-- **Web** [obs-lab.tech](https://www.obs-lab.tech/)
+- **Web** [obs-lab.github.io](https://obs-lab.github.io/)
